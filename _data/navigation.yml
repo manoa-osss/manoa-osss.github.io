@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About us"
+    url: /_pages/about
+  - title: "Code of conduct"
+    url: /_pages/code-of-conduct
+  - title: "Resources"
+    url: /_pages/resources
+  - title: "Community"
+    url: /_pages/community
+  - title: "Contact"
+    url: /_pages/contact

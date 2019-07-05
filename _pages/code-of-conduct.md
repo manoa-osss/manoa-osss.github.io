@@ -11,9 +11,12 @@ This document contains the ground rules that members of the community should adh
 involved in mOSSs, be that leaders, members, individuals seeking help, people prospecting whether to join, or one time
 volunteers.
 
-This code does not exhaust all unacceptable behavior, but instead serves as the foundation for which the community
-of the mOSSs is built upon.  A foundation that is built out of respect and compassion for each other, in order to
-enrich the technical community that we participate in.
+This code does not exhaust all unacceptable behavior, but instead serves as the foundation for which the mOSSs community
+is built upon.  A foundation that is built out of respect and compassion for each other, in order to enrich the technical
+community that we participate in.
+
+The Manoa Open Source Society takes pride in the fact that we will not sacrifice the well-being of the minority for
+the comfort of the majority.
 
 It is evey member's responsibility to help build a community that fosters feelings of inclusion for all individuals.
 
@@ -51,7 +54,8 @@ sexual advances.
 ## Reporting and Enforcement
 
 Harassment and other code of conduct violations reduce the value of the community for everyone. If someone makes you or anyone
-else feel unsafe or unwelcome, please report it to the community organizers at manoa.oss.society@gmail.com as soon as possible.
+else feel unsafe or unwelcome, please report it to the community organizers at [manoa.oss.society@gmail.com](mailto:manoa.oss.society@gmail.com)
+as soon as possible.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate,
 up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case

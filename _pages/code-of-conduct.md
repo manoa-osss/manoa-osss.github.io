@@ -71,6 +71,7 @@ cases, the identities of all victims and reporters will remain confidential unle
 ## License and Attribution
 
 This Code of Conduct is adapted from the
+[Zulip Code of Conduct](https://github.com/zulip/zulip/blob/master/CODE_OF_CONDUCT.md) and the
 [Citizen Code of Conduct](http://citizencodeofconduct.org/) and the
 [Django Code of Conduct](https://www.djangoproject.com/conduct/), and is
 under a
